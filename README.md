@@ -4,7 +4,7 @@ Responsi Pemrograman Mobile
 Nama : Faqih Ardiansyah
 NIM  : H1D024047
 
-## 🎥 Video Penjelasan Kode
+## Video Penjelasan Kode
 
 🔗 **Link Video YouTube:**
 [VIDEO_PENJELASAN_KODE_PROGRAM](https://youtu.be/3xEjKE7_Ji0)
@@ -26,10 +26,10 @@ Aplikasi ini memiliki dua screen utama:
 
 ## Screenshot Aplikasi
 
-| Home Screen | Hasil Pencarian | Detail Game |
-|:---:|:---:|:---:|
-| ![Home Screen](screenshots/home.png) | ![Hasil Search](screenshots/search.png) | ![Detail Screen](screenshots/detail.png) |
-| Daftar game beserta search bar | Contoh hasil pencarian game | Detail game beserta deskripsi |
+|              Home Screen              |             Hasil Pencarian              |                Detail Game                |
+|:-------------------------------------:|:----------------------------------------:|:-----------------------------------------:|
+| ![Home Screen](screenshots/home.jpeg) | ![Hasil Search](screenshots/search.jpeg) | ![Detail Screen](screenshots/detail.jpeg) |
+|    Daftar game beserta search bar     |       Contoh hasil pencarian game        |       Detail game beserta deskripsi       |
 
 ---
 
